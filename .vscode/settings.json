@@ -1,0 +1,4 @@
+{
+    "files.autoSave": "onFocusChange",
+    "vscode-w3cvalidation.trace.server": "messages"
+}
